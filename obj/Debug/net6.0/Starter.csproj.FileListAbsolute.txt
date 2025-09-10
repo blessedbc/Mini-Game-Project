@@ -13,3 +13,6 @@ C:\Users\Ikenna\OneDrive\Desktop\Challenge-project-Create-methods-in-CSharp-main
 C:\Users\Ikenna\OneDrive\Desktop\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
 C:\Users\Ikenna\OneDrive\Desktop\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
 C:\Users\Ikenna\OneDrive\Desktop\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll
+C:\Users\Ikenna Nwaka\OneDrive\Desktop\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+C:\Users\Ikenna Nwaka\OneDrive\Desktop\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+C:\Users\Ikenna Nwaka\OneDrive\Desktop\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
