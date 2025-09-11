@@ -107,7 +107,6 @@ void Move(bool allowTerminateOnNonDirectional = false)
             }
             break;
     }
-
     // Clear the characters at the previous position
     Console.SetCursorPosition(lastX, lastY);
     for (int i = 0; i < player.Length; i++) 
