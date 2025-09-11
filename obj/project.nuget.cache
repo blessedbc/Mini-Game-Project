@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Lbv9adPp2Lw=",
+  "dgSpecHash": "SCQkkkt3h0A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ikenna\\OneDrive\\Desktop\\Challenge-project-Create-methods-in-CSharp-main\\Starter\\Starter.csproj",
+  "projectFilePath": "C:\\Users\\Ikenna Nwaka\\OneDrive\\Desktop\\Challenge-project-Create-methods-in-CSharp-main\\Starter\\Starter.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ikenna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\Ikenna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\Ikenna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\Ikenna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+    "C:\\Users\\Ikenna Nwaka\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Ikenna Nwaka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Ikenna Nwaka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Ikenna Nwaka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
   ],
   "logs": []
 }
