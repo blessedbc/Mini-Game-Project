@@ -80,6 +80,7 @@ void ShowFood()
 }
 
 // Returns true if the player location matches the food location
+
 bool GotFood() 
 {
     return playerY == foodY && playerX == foodX;
