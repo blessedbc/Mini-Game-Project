@@ -3,6 +3,7 @@
 Random random = new Random();
 
 Console.CursorVisible = false;
+
 int height = Console.WindowHeight - 1;
 int width = Console.WindowWidth - 5;
 bool shouldExit = false;
