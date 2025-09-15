@@ -97,7 +97,6 @@ bool PlayerIsFaster()
 {
     return player.Equals(states[1]);
 }
-
 // Changes the player to match the food consumed
 void ChangePlayer() 
 {
