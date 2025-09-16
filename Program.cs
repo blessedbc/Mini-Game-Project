@@ -146,7 +146,6 @@ void Move(int speed = 1, bool otherKeysExit = false)
     {
         Console.Write(" ");
     }
-
     // Keep player position within the bounds of the Terminal window
     playerX = (playerX < 0) ? 0 : (playerX >= width ? width : playerX);
     playerY = (playerY < 0) ? 0 : (playerY >= height ? height : playerY);
